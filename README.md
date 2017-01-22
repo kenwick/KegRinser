@@ -1,2 +1,2 @@
 # KegRinser
-Replacement cleaning sequencer for old PLC-based Beer Keg Rinser/Sanitizer
+Replacement cleaning sequencer for old IDD PLC-based Beer Keg Rinser/Sanitizer
